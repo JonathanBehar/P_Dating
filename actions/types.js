@@ -1,0 +1,12 @@
+export const LOGIN_SUCCESS = "login_success";
+export const REGISTER_SUCCESS = "register_success";
+export const UDPATE_USER_STATE = "update_user_state";
+export const LOGOUT = "logout";
+export const GET_MATCHES = "get_matches";
+export const UPDATE_USER_SETTING = "update_user_setting";
+export const MATCHED_USER = "matched_user";
+export const GET_MATCHED = "get_matched";
+export const UPDATE_LIKES = "update_likes";
+export const UPDATE_MATCHED = "update_matched";
+export const UPDATE_MATCHES = "update_matches";
+export const UPDATE_MATCHED_INITIAL = "update_matched_initial";

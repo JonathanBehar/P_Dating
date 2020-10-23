@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pursue</string>
+    <string name="facebook_app_id">2692745617629446</string>
+    <string name="fb_login_protocol_scheme">fb2692745617629446</string>
+</resources>
